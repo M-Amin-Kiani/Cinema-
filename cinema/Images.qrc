@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/CamGif.gif</file>
+        <file>Images/Loading3.gif</file>
+        <file>Images/delete.png</file>
+        <file>Images/edit.png</file>
+        <file>Images/search.png</file>
+        <file>Images/user.png</file>
+        <file>Images/show.png</file>
+        <file>Images/open_eye.png</file>
+        <file>Images/close_eye.png</file>
+        <file>Images/logout.png</file>
+        <file>Images/Plus.png</file>
+    </qresource>
+</RCC>
